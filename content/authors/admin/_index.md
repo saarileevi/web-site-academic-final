@@ -45,12 +45,12 @@ education:
       year: 2019
 superuser: true
 status:
-  icon: ☕️
-last_name: Wu
+  icon: ''
+last_name: Saari
 role: Doctoral Researcher on Regulation of Artificial Intelligence
 highlight_name: true
 title: Leevi Saari
-first_name: Alice
+first_name: Leevi
 email: ""
 ---
 Leevi Saari is a Doctoral Researcher in the University of Amsterdam.
