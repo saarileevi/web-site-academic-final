@@ -33,12 +33,9 @@ organizations:
     url: https://www.regulaite.eu
 education:
   courses:
-    - course: MA in World Politics
-      institution: University of Helsinki
-      year: 2021
-    - course: BA in World Politics
-      institution: University of Helsinki
-      year: 2033
+    - course: PhD in Machine Learning
+      institution: "Stanford University "
+      year: 2018
 superuser: true
 status:
   icon: ""
