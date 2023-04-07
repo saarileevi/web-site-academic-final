@@ -35,8 +35,6 @@ organizations:
     url: https://www.regulaite.eu
 education:
   courses:
-    - course: PhD
-      institution: University of Amsterdam
     - course: MA in World Politics
       institution: University of Helsinki
       year: 2021
@@ -51,7 +49,7 @@ role: Doctoral Researcher on Regulation of Artificial Intelligence
 highlight_name: true
 title: Leevi Saari
 first_name: Leevi
-email: ""
+email: l.j.m.saari@uva.nl
 ---
 Leevi Saari is a Doctoral Researcher in the University of Amsterdam.
 {style="text-align: justify;"}
