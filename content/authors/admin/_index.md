@@ -47,4 +47,4 @@ first_name: Leevi
 email: l.j.m.saari@uva.nl
 ---
 Currently, I am researching a PhD for the University of Amsterdam on the regulation and political economy of artificial intelligence technologies in Europe. I am particularly interested in the social process through which technology becomes an object of regulation.
-{style="text-align: justify;"}
+{style="text-align: start;"}
