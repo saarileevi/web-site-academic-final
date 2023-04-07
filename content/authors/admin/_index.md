@@ -49,5 +49,5 @@ title: Leevi Saari
 first_name: Leevi
 email: l.j.m.saari@uva.nl
 ---
-Leevi Saari is a Doctoral Researcher in the University of Amsterdam.
+Currently, I am researching a PhD for the University of Amsterdam on the regulation and political economy of artificial intelligence technologies in Europe. I am particularly interested in the social process through which technology becomes an object of regulation.
 {style="text-align: justify;"}
