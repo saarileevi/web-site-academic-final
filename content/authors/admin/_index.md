@@ -6,6 +6,7 @@ bio: Currently, I am researching a PhD for the University of Amsterdam on the
   technology becomes an object of regulation.
 interests:
   - Artificial Intelligence
+  - Political Economy
 social:
   - icon: envelope
     icon_pack: ai
