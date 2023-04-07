@@ -30,8 +30,6 @@ social:
     link: uploads/resume.pdf
 organizations:
   - name: University of Amsterdam
-    url: https://www.uva.nl
-  - name: "RegulAIte "
     url: https://www.regulaite.eu
 education:
   courses:
