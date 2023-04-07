@@ -1,5 +1,5 @@
 ---
-avatar_filename: black_and_white_for_web.jpg
+avatar_filename: ""
 bio: Currently, I am researching a PhD for the University of Amsterdam on the
   regulation and political economy of artificial intelligence technologies in
   Europe. I am particularly interested in the social process through which
