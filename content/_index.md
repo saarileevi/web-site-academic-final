@@ -12,22 +12,6 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
-  - block: features
-    content:
-      title: Skills
-      items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
-          icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
   - block: experience
     content:
       title: Experience
@@ -40,19 +24,19 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Policy Advisor 
+          company: European Parliament
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          company_logo: ''
+          location: Brussels
+          date_start: '2021-01-05'
+          date_end: '2023-04-01'
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+              * Working on key EU regulation in the digital sphere, including AI Act, Data Act
+              * 
+              * 
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
