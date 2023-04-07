@@ -1,16 +1,15 @@
 ---
 avatar_filename: black_and_white_for_web.jpg
 bio: Currently, I am researching a PhD for the University of Amsterdam on the
-  regulation and political of artificial intelligence technologies in Europe. I
-  am particularly interested in the social process through which technology
-  becomes an object of regulation.
+  regulation and political economy of artificial intelligence technologies in
+  Europe. I am particularly interested in the social process through which
+  technology becomes an object of regulation.
 interests:
   - Artificial Intelligence
-  - ""
 social:
   - icon: envelope
-    icon_pack: fas
-    link: /#contact
+    icon_pack: ai
+    link: l.j.m.saari@uva.nl
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/SaariLeevi
@@ -55,5 +54,5 @@ title: Leevi Saari
 first_name: Alice
 email: ""
 ---
-Leevi Saari is a Doctoral Researcher in the University of Amsterdam
+Leevi Saari is a Doctoral Researcher in the University of Amsterdam.
 {style="text-align: justify;"}
