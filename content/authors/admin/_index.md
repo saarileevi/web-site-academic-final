@@ -1,5 +1,5 @@
 ---
-avatar_filename: ""
+avatar_filename: avatar.jpg
 bio: Currently, I am researching a PhD for the University of Amsterdam on the
   regulation and political economy of artificial intelligence technologies in
   Europe. I am particularly interested in the social process through which
