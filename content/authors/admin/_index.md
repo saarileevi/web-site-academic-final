@@ -1,6 +1,5 @@
 ---
-title: Leevi Saari
-role: Doctoral Researcher on Regulation of Artificial Intelligence
+avatar_filename: black_and_white_for_web.jpg
 bio: Currently, I am researching a PhD for the University of Amsterdam on the
   regulation and political of artificial intelligence technologies in Europe. I
   am particularly interested in the social process through which technology
@@ -50,7 +49,9 @@ superuser: true
 status:
   icon: ☕️
 last_name: Wu
+role: Doctoral Researcher on Regulation of Artificial Intelligence
 highlight_name: true
+title: Leevi Saari
 first_name: Alice
 email: ""
 ---
