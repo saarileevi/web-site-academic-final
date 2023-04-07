@@ -2,20 +2,19 @@
 title: Leevi Saari
 role: Doctoral Researcher on Regulation of Artificial Intelligence
 bio: Currently, I am researching a PhD for the University of Amsterdam on the
-  regulation of artificial intelligence technologies in Europe. I am
-  particularly interested in the social process through which technology becomes
-  an object of regulation.
+  regulation and political of artificial intelligence technologies in Europe. I
+  am particularly interested in the social process through which technology
+  becomes an object of regulation.
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - ""
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/SaariLeevi
     label: Follow me on Twitter
     display:
       header: true
@@ -27,24 +26,26 @@ social:
     link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/leevisaari/
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Amsterdam
+    url: https://www.uva.nl
+  - name: "RegulAIte "
+    url: https://www.regulaite.eu
 education:
   courses:
-    - course: PhD in Artificial Intelligence
+    - course: PhD
       institution: Stanford University
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MA in World Politics
+      institution: University of Helsinki
+      year: 2021
+    - course: BA in World Politics
+      institution: University of Helsinki
+      year: 2019
 superuser: true
 status:
   icon: ☕️
@@ -53,5 +54,5 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. 
+Leevi Saari is a Doctoral Researcher in the University of Amsterdam
 {style="text-align: justify;"}
