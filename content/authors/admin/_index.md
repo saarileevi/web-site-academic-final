@@ -1,5 +1,5 @@
 ---
-avatar_filename: avatar.jpg
+avatar_filename: ""
 bio: Currently, I am researching a PhD for the University of Amsterdam on the
   regulation and political economy of artificial intelligence technologies in
   Europe. I am particularly interested in the social process through which
@@ -45,7 +45,7 @@ education:
       year: 2019
 superuser: true
 status:
-  icon: ''
+  icon: ""
 last_name: Saari
 role: Doctoral Researcher on Regulation of Artificial Intelligence
 highlight_name: true
