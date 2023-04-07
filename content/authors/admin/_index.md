@@ -7,7 +7,6 @@ bio: Currently, I am researching a PhD for the University of Amsterdam on the
 interests:
   - Artificial Intelligence
   - Political Economy
-  - European Union
 social:
   - icon: envelope
     icon_pack: ai
@@ -39,7 +38,7 @@ education:
       year: 2021
     - course: BA in World Politics
       institution: University of Helsinki
-      year: 2019
+      year: 2033
 superuser: true
 status:
   icon: ""
