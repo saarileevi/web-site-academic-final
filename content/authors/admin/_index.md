@@ -7,6 +7,7 @@ bio: Currently, I am researching a PhD for the University of Amsterdam on the
 interests:
   - Artificial Intelligence
   - Political Economy
+  - European Union
 social:
   - icon: envelope
     icon_pack: ai
